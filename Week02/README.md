@@ -1,4 +1,4 @@
-﻿# &#x20;Tyr Technologies — Enterprise Infrastructure Planning
+﻿# &#x20;ABC Startup Solutions — Enterprise Infrastructure Planning
 
 # 
 
@@ -6,7 +6,7 @@
 
 # 
 
-# This project presents the IT infrastructure plan for Tyr Technologies, Inc., a fictional software development startup with 20 employees.
+# This project presents the IT infrastructure plan for ABC Startup Solutions, a fictional software development startup with 20 employees.
 
 # 
 
@@ -40,7 +40,7 @@
 
 # 
 
-# Tyr Technologies, Inc. is a newly established software development and IT solutions company with 20 employees.
+# ABC Startup Solutions is a newly established software development and IT solutions company with 20 employees.
 
 # 
 
@@ -144,7 +144,7 @@
 
 # 
 
-# `diagrams/Tyr Technologies, Inc. Enterprise Network Topology.png`
+# `diagrams/ABC Startup Solutions Enterprise Network Topology.png`
 
 # 
 
