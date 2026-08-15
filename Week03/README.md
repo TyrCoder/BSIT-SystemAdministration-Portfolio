@@ -1,4 +1,4 @@
-﻿# eek 3: Enterprise Server Deployment and Operating System Installation
+﻿# Week 3: Enterprise Server Deployment and Operating System Installation
 
 # 
 
